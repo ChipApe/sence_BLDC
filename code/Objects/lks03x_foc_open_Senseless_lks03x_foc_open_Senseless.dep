@@ -1,0 +1,641 @@
+Dependencies for Project 'lks03x_foc_open_Senseless', Target 'lks03x_foc_open_Senseless': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\periph_driver\Source\lks32mc03x_adc.c)(0x62C3E4A0)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\lks32mc03x_adc.o --omf_browse .\objects\lks32mc03x_adc.crf --depend .\objects\lks32mc03x_adc.d)
+I (.\periph_driver\Include\lks32mc03x_adc.h)(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+F (.\periph_driver\Source\lks32mc03x_dsp.c)(0x62C3E490)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\lks32mc03x_dsp.o --omf_browse .\objects\lks32mc03x_dsp.crf --depend .\objects\lks32mc03x_dsp.d)
+I (.\periph_driver\Include\lks32mc03x_dsp.h)(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+F (.\periph_driver\Source\lks32mc03x_gpio.c)(0x62C50492)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\lks32mc03x_gpio.o --omf_browse .\objects\lks32mc03x_gpio.crf --depend .\objects\lks32mc03x_gpio.d)
+I (.\periph_driver\Include\lks32mc03x_gpio.h)(0x62C4EFE4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+F (.\periph_driver\Source\lks32mc03x_iwdg.c)(0x62C3E3E8)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\lks32mc03x_iwdg.o --omf_browse .\objects\lks32mc03x_iwdg.crf --depend .\objects\lks32mc03x_iwdg.d)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h)(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+F (.\periph_driver\Source\lks32mc03x_mcpwm.c)(0x62C3E4A0)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\lks32mc03x_mcpwm.o --omf_browse .\objects\lks32mc03x_mcpwm.crf --depend .\objects\lks32mc03x_mcpwm.d)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h)(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\string.h)(0x6025237E)
+F (.\periph_driver\Source\lks32mc03x_opa.c)(0x698AA47A)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\lks32mc03x_opa.o --omf_browse .\objects\lks32mc03x_opa.crf --depend .\objects\lks32mc03x_opa.d)
+I (.\periph_driver\Include\lks32mc03x_opa.h)(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+F (.\periph_driver\Source\lks32mc03x_sys.c)(0x62C3E490)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\lks32mc03x_sys.o --omf_browse .\objects\lks32mc03x_sys.crf --depend .\objects\lks32mc03x_sys.d)
+I (.\periph_driver\Include\lks32mc03x_sys.h)(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+F (.\periph_driver\Source\startup_lks32mc03x.s)(0x698AD579)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "LKS32MC031KLC6T8B SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_lks32mc03x.lst --xref -o .\objects\startup_lks32mc03x.o --depend .\objects\startup_lks32mc03x.d)
+F (.\periph_driver\Source\lks32mc03x_nvr.lib)(0x629EE3FC)()
+F (.\User\app_func\hardware_init.c)(0x6999653F)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\hardware_init.o --omf_browse .\objects\hardware_init.crf --depend .\objects\hardware_init.d)
+I (.\User\foc_kernel/include/mc.h)(0x699EC519)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+F (.\User\app_func\interrupt.c)(0x699EC964)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\interrupt.o --omf_browse .\objects\interrupt.crf --depend .\objects\interrupt.d)
+I (.\User\foc_kernel/include/mc.h)(0x699EC519)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+I (.\User\foc_kernel/include/_math.h)(0x6992DBE3)
+F (.\User\app_func\main.c)(0x6993B6B1)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\User\foc_kernel/include/mc.h)(0x699EC519)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+F (.\User\foc_kernel\source\_math.c)(0x6992B763)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\_math.o --omf_browse .\objects\_math.crf --depend .\objects\_math.d)
+I (.\User\foc_kernel/include/_math.h)(0x6992DBE3)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+F (.\User\foc_kernel\source\_spi.c)(0x69916B0E)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\_spi.o --omf_browse .\objects\_spi.crf --depend .\objects\_spi.d)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+F (.\User\foc_kernel\source\mt6816.c)(0x69916DD0)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\mt6816.o --omf_browse .\objects\mt6816.crf --depend .\objects\mt6816.d)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/_math.h)(0x6992DBE3)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+F (.\User\foc_kernel\source\pid.c)(0x6991B21D)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\pid.o --omf_browse .\objects\pid.crf --depend .\objects\pid.d)
+I (.\User\foc_kernel/include/pid.h)(0x697EF330)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+I (.\User\foc_kernel/include/_math.h)(0x6992DBE3)
+F (.\User\foc_kernel\source\mc.c)(0x69A3934F)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\mc.o --omf_browse .\objects\mc.crf --depend .\objects\mc.d)
+I (.\User\foc_kernel/include/mc.h)(0x699EC519)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+I (.\User\foc_kernel/include/_math.h)(0x6992DBE3)
+I (.\User\SEGGER_RTT/SEGGER_RTT.h)(0x6891FEF9)
+I (.\User\SEGGER_RTT/SEGGER_RTT_Conf.h)(0x6891FEF9)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdarg.h)(0x60252376)
+F (.\User\foc_kernel\source\mc_variable.c)(0x699EC1F8)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\mc_variable.o --omf_browse .\objects\mc_variable.crf --depend .\objects\mc_variable.d)
+I (.\User\foc_kernel/include/mc.h)(0x699EC519)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+I (.\User\foc_kernel/include/pid.h)(0x697EF330)
+I (.\User\foc_kernel/include/_math.h)(0x6992DBE3)
+F (.\User\foc_kernel\source\sys_state.c)(0x69A3F34B)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\sys_state.o --omf_browse .\objects\sys_state.crf --depend .\objects\sys_state.d)
+I (.\User\foc_kernel/include/mc.h)(0x699EC519)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+I (.\User\foc_kernel/include/_math.h)(0x6992DBE3)
+I (.\User\foc_kernel/include/pid.h)(0x697EF330)
+F (.\User\foc_kernel\source\smo.c)(0x6992CAF8)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\smo.o --omf_browse .\objects\smo.crf --depend .\objects\smo.d)
+I (.\User\foc_kernel/include/_math.h)(0x6992DBE3)
+I (.\periph_driver\Include\lks32mc03x_lib.h)(0x62AAF5E4)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\lks32mc03x.h)(0x67A485BA)
+I (D:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include\basic.h)(0x66D6DB88)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\ctype.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm0.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (.\periph_driver\Include\lks32mc03x_adc.h   )(0x62C3E4A0)
+I (.\periph_driver\Include\lks32mc03x_cmp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dac.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_dma.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_dsp.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32MC03x_flash.h )(0x62C3E4FC)
+I (.\periph_driver\Include\lks32mc03x_gpio.h  )(0x62C4EFE4)
+I (.\periph_driver\Include\lks32mc03x_hall.h  )(0x62C54F6A)
+I (.\periph_driver\Include\lks32mc03x_i2c.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_iwdg.h  )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_mcpwm.h )(0x697F0853)
+I (.\periph_driver\Include\lks32mc03x_nvr.h   )(0x62C3E55C)
+I (.\periph_driver\Include\lks32mc03x_opa.h   )(0x62C68DFA)
+I (.\periph_driver\Include\lks32mc03x_spi.h   )(0x62C3E4B4)
+I (.\periph_driver\Include\lks32mc03x_sys.h   )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_timer.h )(0x62C3E490)
+I (.\periph_driver\Include\lks32mc03x_uart.h  )(0x62C3E51E)
+I (.\periph_driver\Include\lks32mc03x_tmp.h   )(0x62C3E436)
+I (.\User\foc_kernel/include/mc_variable.h)(0x699EB4C7)
+I (.\User\foc_kernel/include/mc_type.h)(0x69995E8D)
+I (.\User\foc_kernel/include/config.h)(0x69A3F371)
+I (.\User\foc_kernel/include/mt6816.h)(0x69916B5E)
+I (.\User\foc_kernel/include/_spi.h)(0x69916AE0)
+I (.\User\foc_kernel/include/mc.h)(0x699EC519)
+F (.\User\foc_kernel\include\mc_type.h)(0x69995E8D)()
+F (.\User\foc_kernel\include\_math.h)(0x6992DBE3)()
+F (.\User\foc_kernel\include\mc_variable.h)(0x699EB4C7)()
+F (.\User\foc_kernel\include\config.h)(0x69A3F371)()
+F (.\User\foc_kernel\include\mc.h)(0x699EC519)()
+F (.\User\SEGGER_RTT\SEGGER_RTT.c)(0x6891FEF9)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\segger_rtt.o --omf_browse .\objects\segger_rtt.crf --depend .\objects\segger_rtt.d)
+I (User\SEGGER_RTT\SEGGER_RTT.h)(0x6891FEF9)
+I (User\SEGGER_RTT\SEGGER_RTT_Conf.h)(0x6891FEF9)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdarg.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\string.h)(0x6025237E)
+F (.\User\SEGGER_RTT\SEGGER_RTT_printf.c)(0x6891FEF9)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Include -I .\periph_driver\Include -I .\User-I.\RTE\_lks03x_foc_open_Senseless-ID:\my_software\keil5_stm32\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\my_software\keil5_stm32\Packs\Linko\LKS03x\1.1.8\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLKS32MC031KLC6T8B -D_RTE_-o .\objects\segger_rtt_printf.o --omf_browse .\objects\segger_rtt_printf.crf --depend .\objects\segger_rtt_printf.d)
+I (User\SEGGER_RTT\SEGGER_RTT.h)(0x6891FEF9)
+I (User\SEGGER_RTT\SEGGER_RTT_Conf.h)(0x6891FEF9)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdarg.h)(0x60252376)
+I (D:\my_software\keil5_stm32\Core\ARM\ARMCC\include\stdint.h)(0x6025237E)

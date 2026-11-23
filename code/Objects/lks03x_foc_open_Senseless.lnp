@@ -1,0 +1,27 @@
+--cpu Cortex-M0
+".\objects\lks32mc03x_adc.o"
+".\objects\lks32mc03x_dsp.o"
+".\objects\lks32mc03x_gpio.o"
+".\objects\lks32mc03x_iwdg.o"
+".\objects\lks32mc03x_mcpwm.o"
+".\objects\lks32mc03x_opa.o"
+".\objects\lks32mc03x_sys.o"
+".\objects\startup_lks32mc03x.o"
+".\periph_driver\Source\lks32mc03x_nvr.lib"
+".\objects\hardware_init.o"
+".\objects\interrupt.o"
+".\objects\main.o"
+".\objects\_math.o"
+".\objects\_spi.o"
+".\objects\mt6816.o"
+".\objects\pid.o"
+".\objects\mc.o"
+".\objects\mc_variable.o"
+".\objects\sys_state.o"
+".\objects\smo.o"
+".\objects\segger_rtt.o"
+".\objects\segger_rtt_printf.o"
+--strict --scatter ".\Objects\lks03x_foc_open_Senseless.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\lks03x_foc_open_Senseless.map" -o .\Objects\lks03x_foc_open_Senseless.axf
